@@ -1,0 +1,29 @@
+a:link {
+    color:blue
+}
+
+table, th, td {
+    border: 1px solid;
+}
+
+th {
+    height: 70px;
+    width: 100;
+}
+
+td {
+    text-align: center;
+}
+
+.box1 {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    background-color: violet;
+    margin-bottom: 10px;
+    border: 5px solid black;
+}
+
+uL Li {
+    display: inline;
+}
